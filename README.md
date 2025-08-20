@@ -23,7 +23,7 @@ A simple **hex dump utility in Go**, inspired by the Unix `xxd` command, capable
 Make sure you have **Go installed**. Clone or copy the `xxd.go` file.
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/dunstanad/go-xxd-tool.git
 cd go-xxd
 ```
 
